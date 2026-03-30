@@ -8,7 +8,7 @@ I am a final-year Information Technology student at Mapúa Malayan Colleges Lagu
 
 ---
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 
 Here are some of the technologies I'm proficient with:
 
@@ -20,15 +20,15 @@ Here are some of the technologies I'm proficient with:
 
 ---
 
-### 🌱 What I'm Currently Learning
+### What I'm Currently Learning
 
-- Exploring advanced network automation techniques.
-- Deepening my knowledge of cloud security best practices on GCP.
-- Working on personal projects to enhance my software development skills.
+-  Deepening my understanding of network automation and advanced security protocols.
+- Exploring application deployment and containerization using **Docker** and **Google Cloud Platform (GCP)**.
+- Actively building personal projects to sharpen my software development and problem-solving skills.
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/christian-dela-cruz-629aa6345](https://www.linkedin.com/in/christian-dela-cruz-629aa6345)
 - **Email:** cjadelacruz.it@gmail.com
