@@ -32,9 +32,3 @@ Here are some of the technologies I'm proficient with:
 
 - **LinkedIn:** [linkedin.com/in/christian-dela-cruz-629aa6345](https://www.linkedin.com/in/christian-dela-cruz-629aa6345)
 - **Email:** cjadelacruz.it@gmail.com
-
----
-
-### ✨ Pinned Project Highlight
-
-Don't forget to **pin** your best project to your profile! Pinning your **HOPFOG** project repository would be a great way to showcase your skills. Go to your repositories list, find the project, and use the "Pin" option.
