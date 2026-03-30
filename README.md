@@ -35,6 +35,3 @@ Here are some of the technologies I'm proficient with:
 
 ---
 
-### Pinned Project Highlight
-
-Don't forget to **pin** your best project to your profile! Pinning your **HOPFOG** project repository would be a great way to showcase your skills. Go to your repositories list, find the project, and use the "Pin" option.
