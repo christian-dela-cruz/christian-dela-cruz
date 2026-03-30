@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Christian Dela Cruz!
+### Hi there, I'm Christian Dela Cruz!
 
 <a href="https://www.linkedin.com/in/christian-dela-cruz-629aa6345/">
   <img align="left" alt="Christian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,7 +14,7 @@ Here are some of the technologies I'm proficient with:
 
 - **Programming:** Python, C#, Kotlin
 - **Networking:** Routing & Switching (Cisco), TCP/IP, Network Security, Cisco Packet Tracer
-- **Cloud & Systems:** Google Cloud Platform (GCP), Systems Administration, Oracle VirtualBox
+- **Cloud & Systems:** Windows Server, Red Hat Enterprise Linux (RHEL), Google Cloud Platform (GCP), Systems Administration, Oracle VirtualBox
 - **Databases:** MySQL, Oracle SQL
 - **Development Tools:** Git, Visual Studio Code, Arduino IDE
 
@@ -22,8 +22,8 @@ Here are some of the technologies I'm proficient with:
 
 ### What I'm Currently Learning
 
--  Deepening my understanding of network automation and advanced security protocols.
-- Exploring application deployment and containerization using **Docker** and **Google Cloud Platform (GCP)**.
+- Deepening my understanding of network automation and advanced security protocols.
+- Exploring application deployment and containerization using Docker and Google Cloud Platform (GCP).
 - Actively building personal projects to sharpen my software development and problem-solving skills.
 
 ---
@@ -32,3 +32,9 @@ Here are some of the technologies I'm proficient with:
 
 - **LinkedIn:** [linkedin.com/in/christian-dela-cruz-629aa6345](https://www.linkedin.com/in/christian-dela-cruz-629aa6345)
 - **Email:** cjadelacruz.it@gmail.com
+
+---
+
+### Pinned Project Highlight
+
+Don't forget to **pin** your best project to your profile! Pinning your **HOPFOG** project repository would be a great way to showcase your skills. Go to your repositories list, find the project, and use the "Pin" option.
