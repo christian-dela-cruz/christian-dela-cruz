@@ -10,6 +10,7 @@ I am a final-year Information Technology student at Mapúa Malayan Colleges Lagu
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
+
 ---
 
 ### Technologies & Tools
