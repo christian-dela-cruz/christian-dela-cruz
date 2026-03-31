@@ -1,11 +1,15 @@
 ### Hi there, I'm Christian Dela Cruz!
 
-<a href="https://www.linkedin.com/in/christian-dela-cruz-629aa6345/">
-  <img align="left" alt="Christian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+I am a final-year Information Technology student at Mapúa Malayan Colleges Laguna, specializing in Cybersecurity. I'm passionate about building and securing digital infrastructure, with the goal of launching a career as a **Network Administrator** or **Software Developer**.
 
-I am a final-year Information Technology student at Mapúa Malayan Colleges Laguna, specializing in Cybersecurity. I'm passionate about building and securing digital infrastructure. My goal is to launch a career as a **Network Administrator** or **Software Developer**.
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/christian-dela-cruz-629aa6345/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:cjadelacruz.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 ---
 
 ### Technologies & Tools
