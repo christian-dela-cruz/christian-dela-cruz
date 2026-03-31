@@ -15,6 +15,7 @@ I am a final-year Information Technology student at Mapúa Malayan Colleges Lagu
 Here are some of the technologies I'm proficient with:
 
 - **Programming:** Python, C#, Kotlin
+- **Web & API Development:** ASP.NET, MVC Framework, RESTful APIs
 - **Networking:** Routing & Switching (Cisco), TCP/IP, Network Security, Cisco Packet Tracer
 - **Cloud & Systems:** Windows Server, Red Hat Enterprise Linux (RHEL), Google Cloud Platform (GCP), Systems Administration, Oracle VirtualBox
 - **Databases:** MySQL, Oracle SQL
